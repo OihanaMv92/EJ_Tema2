@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"es.studium.Ejercicio_Tema2","l":"Cuenta"}];updateSearchResults();
